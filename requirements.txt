@@ -4,3 +4,4 @@ langchain-community
 faiss-cpu
 pymupdf
 huggingface-hub
+sentence-transformers
